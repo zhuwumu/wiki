@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DVT8N-ZV.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"01.后端技术栈/JDK8-21.md","filePath":"01.后端技术栈/JDK8-21.md","lastUpdated":null}'),r={name:"01.后端技术栈/JDK8-21.md"};function o(s,n,c,d,p,_){return a(),t("div")}const m=e(r,[["render",o]]);export{l as __pageData,m as default};
